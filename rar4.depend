@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705172106 source:c:\users\artsh\desktop\proglabshas\rar4\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+
